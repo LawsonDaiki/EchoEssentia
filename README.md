@@ -33,7 +33,7 @@ You can see the prototype of our solution [here - add link to demo]().
 
 ## Technology
 
-This repository contains the source code in C++ for the MCU. The microcontroller used was a ESP32.
+This repository contains the source code in C++ for the MCU. The microcontroller used was an ESP32.
 
 It has been built using PlatformIO extension and their libraries.
 
