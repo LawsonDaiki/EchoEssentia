@@ -1,6 +1,6 @@
 # EchoEssentia
 
-EchoEssentia kiosk web application / progressive web app
+EchoEssentia kiosk IoT
 
 ## Table of Contents
 
