@@ -39,12 +39,6 @@ It has been built using PlatformIO extension and their libraries.
 
 The communication with the app is through MQTT Broker [Eugenio](https://eugenio.io/). Eugenio send a command through MQTT protocol containing a payload with the liquid quantity and choosen product. After the payload is received, the dispenser actuator is turned on and the device refill the reusable bottle.
 
-## Testing
-
-You can test the application [here](https://distracted-lamarr-9a862b.netlify.app/) or cloning and running the app locally.
-
-To run the app locally execute `yarn start` in your terminal.
-
 ## Team
 
 1. Fernando Maeji
