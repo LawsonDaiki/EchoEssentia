@@ -7,7 +7,7 @@ EchoEssentia kiosk IoT
 - [About](#about)
 - [Solution](#solution)
 - [Technology](#technology)
-- [Testing](#testing)
+- [Links](#links)
 - [Team](#team)
 
 ## About
@@ -38,6 +38,17 @@ This repository contains the source code in C++ for the MCU. The microcontroller
 It has been built using PlatformIO extension and their libraries.
 
 The communication with the app is through MQTT Broker [Eugenio](https://eugenio.io/). Eugenio send a command through MQTT protocol containing a payload with the liquid quantity and choosen product. After the payload is received, the dispenser actuator is turned on and the device refill the reusable bottle.
+
+## Links
+
+Website:
+https://sites.google.com/view/echoessentia/home?authuser=0 
+Demo video:
+https://youtu.be/zvOasAS7lTA
+presentation PDF:
+https://drive.google.com/file/d/1rKgvk1E4whNaGfqR0ASxB4Jq7HqpwqxP/view?usp=sharing
+App:
+https://github.com/fernandoteruo/echoessentia
 
 ## Team
 
